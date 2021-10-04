@@ -4,8 +4,8 @@
 - 📄 Know about my experiences [https://chengengliu.github.io/](https://chengengliu.github.io/)
 - :book: Research interests include image classification, object detection, video anomaly detection. Actively looking for PhD positions.
 - :page_with_curl: Papers:</br>
-Liu, C.,   Yin, Q. (2021, September).  Automatic Diagnosis of COVID-19 Using a tailored Transformer-Like Network.  InJournal of Physics:  Conference Series (Vol.  2010, No.  1, p.  012175).  IOP Publishing.</br>
-Wei, D.,Liu, C., Liu, Y, Liu, J, Zhu, X., Zeng, X. Look, Listen and Pay More Attention:  Fusing Multi-modal Informationfor Video Violence Detection.  Submitted to ICASSP 2022.
+**Liu, C.**,   Yin, Q. (2021, September).  Automatic Diagnosis of COVID-19 Using a tailored Transformer-Like Network.  InJournal of Physics:  Conference Series (Vol.  2010, No.  1, p.  012175).  IOP Publishing.</br>
+Wei, D.,**Liu, C.**, Liu, Y, Liu, J, Zhu, X., Zeng, X. Look, Listen and Pay More Attention:  Fusing Multi-modal Informationfor Video Violence Detection.  Submitted to ICASSP 2022.
 
 
 <h3 align="left">Languages and Tools:</h3>
