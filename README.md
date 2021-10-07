@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chengeng Liu</h1>
+<h1 align="center">Chengeng Liu</h1>
 <h3 align="center">A graduate of master of software engineering. </h3>
 
 - 📄 Know about my experiences [https://chengengliu.github.io/](https://chengengliu.github.io/)
