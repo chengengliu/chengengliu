@@ -1,5 +1,5 @@
 <h1 align="center">Chengeng Liu</h1>
-<h3 align="center">A graduate of master of software engineering. </h3>
+<h3 align="center">A graduate of master of software engineering. Applying for 2022 PhD program in the field of Computer Vision. Well-versed in Mathematics and Computer Vision algo-rithms. </h3>
 
 - 📄 Know about my experiences [https://chengengliu.github.io/](https://chengengliu.github.io/)
 - :book: Research interests include image classification, object detection, video anomaly detection and sentiment analysis. Actively looking for PhD positions in the field of computer vision, NLP and medical image analysis.
