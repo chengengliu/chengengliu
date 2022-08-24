@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Chengeng Liu</h1>
 <h3 align="center">A graduate of master of software engineering. Applying for 2022 PhD program in the field of Computer Vision, especially in the field of video understanding, video anomaly detection and multimedia application. Well-versed in Mathematics and Computer Vision algorithms. </h3> -->
 
-I am a computer science Ph.D. student at Nanyang Technological University. My research interests include optical metrology, 3D reconstruction and deep learning applications.
-📄 Personal website:[https://chengengliu.github.io/](https://chengengliu.github.io/)
+<!-- -I am a computer science Ph.D. student at Nanyang Technological University. My research interests include optical metrology, 3D reconstruction and deep learning applications.
+📄 Personal website:[https://chengengliu.github.io/](https://chengengliu.github.io/) -->
 <!-- - :page_with_curl: Papers:</br>
 **Liu, C.**,   Yin, Q. (2021, September).  Automatic Diagnosis of COVID-19 Using a tailored Transformer-Like Network.  InJournal of Physics:  Conference Series (Vol.  2010, No.  1, p.  012175).  IOP Publishing.</br>
 Wei, D.,**Liu, C.**, Liu, Y, Liu, J, Zhu, X., Zeng, X. Look, Listen and Pay More Attention:  Fusing Multi-modal Information for Video Violence Detection(accepted on Jan 22). -->
